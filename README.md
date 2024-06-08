@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/GaussJr">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GaussJr&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaussJr&layout=compact&langs_count=7&theme=default"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=GaussJr&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaussJr&layout=compact&langs_count=7&theme=default"/>
 </div>
 
 <div style="display: inline_block" align="center"><br>     
